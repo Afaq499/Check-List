@@ -1,0 +1,4 @@
+.flex-on-toolbar {
+  display: 'flex';
+  justify-content: 'space-between'
+}
